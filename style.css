@@ -1,0 +1,151 @@
+
+
+*{margin: 0; padding: 0;}
+
+h1 h2{
+	
+	font-family: sans-serif, Trebuchet MS, arial,  "sans-serif";
+	font-size: 13px;
+
+}
+
+p {
+	font-family: sans-serif, Trebuchet MS, arial, "sans-serif";
+	font-size: 12px;
+	align-items: 
+	margin: 5px 50px 5px 50px;
+
+	
+}
+section > p, h1,h2{
+
+	text-align: left;
+
+}
+
+.olamundo{
+
+	margin-top: 130px;
+}
+
+
+aside{
+
+	border:6px dashed #B0E0E6;
+	width: 250px;
+	height: 280px;
+	padding: 20px;
+	background-color: #F0F8FF;
+	margin-right: 60px;
+	margin-top: 90px;
+
+}
+
+
+html, body { 
+
+	height: 100%;
+	width: 100%;
+	margin: 0; 
+}
+
+
+html { 
+	padding: 0; 
+	margin: 0;
+
+
+}
+
+
+.texto{
+
+
+	text-align: left;
+	bottom:40px;
+	padding-right: 3px;
+	position: 10px;
+}
+  
+
+
+body{
+
+	padding-top: 10px; /* header height */
+	text-align: center;
+	background-color: #FFFAF0;
+	padding-right: 10px;
+	padding-left: 30px;
+	margin-right: 100px
+	margin-left:100px;	
+
+}
+
+
+.navbar{
+
+	background-color: #ADD8E6;
+	box-shadow: 5px 0px 10px #000000; 
+	padding-bottom: 2px;
+
+}
+
+
+
+.circle {
+ background-color: #aaa;
+ border-radius: 60%;
+ border-width: thick;
+ width: 100px;
+ height: 100px;
+ overflow: hidden;
+ position: relative;
+ margin-left: 50px;
+
+
+
+}
+
+.circle img {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  padding-right: 12px;
+  margin-left: 10px;
+  margin-right: 10px;
+
+
+}
+
+
+
+a>img{
+
+	position: relative;
+	bottom:10px;
+	align-items: center;
+
+}
+
+
+a{
+
+	color: #808080;
+	font-size: 20px;
+
+}
+
+
+
+.row{
+
+
+	 
+	margin-right: 10px;
+	padding-top: 10px;
+
+}
+
+
+
+
